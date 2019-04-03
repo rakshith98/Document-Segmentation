@@ -4,4 +4,4 @@ Create a pipeline to pre-process document segmentation and extraction
 
 ![alt text](output.jpg)
 
-![alt text](https://raw.githubusercontent.com/rakshithjk/Document-Segmentation/blob/master/output_2.jpg)
+![alt text](output_2.jpg)
